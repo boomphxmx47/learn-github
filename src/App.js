@@ -1,4 +1,4 @@
-import { useState, useEffect, useReducer } from "react";
+import { useState } from "react";
 
 // ─── THEME ────────────────────────────────────────────────────────────────────
 const C = {
